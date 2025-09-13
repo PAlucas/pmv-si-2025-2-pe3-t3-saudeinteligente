@@ -31,9 +31,10 @@ Assim, com o sistema de integração na area da saúde promove um atendimento ma
 | ETAPA 1         |[Introdução](docs/introducao.md) <br> [Estado da Arte](docs/estado.md) <br> [Referências](docs/referencias.md) |
 1. INTRODUÇÃO
 
-A Inteligência Artificial (IA) tem o princípio de transformar o setor da saúde ao oferecer soluções inovadoras para otimizar processos e melhorar o atendimento ao paciente. Ferramentas inteligentes podem automatizar a marcação de exames, reduzindo tempo de espera e organizando de forma eficiente a disponibilidade de médicos e equipamentos. Além disso, sistemas de triagem automatizada analisam sintomas, histórico clínico e dados em tempo real para identificar prioridades, garantindo que casos mais urgentes recebam atenção imediata.
+O sistema de integração de dados online tem o princípio de transformar o setor da saúde ao oferecer soluções inovadoras para otimizar processos e melhorar o atendimento ao paciente. Ferramentas inteligentes podem automatizar a marcação de exames, reduzindo tempo de espera e organizando de forma eficiente a disponibilidade de médicos e equipamentos. 
+Além disso, sistemas de dados de pacientes automatizada analisam sintomas, histórico clínico e dados em tempo real para identificar prioridades, garantindo que casos mais urgentes recebam atenção imediata.
 
-Outro ponto de destaque é o acompanhamento médico contínuo, viabilizado por aplicativos e dispositivos que monitoram sinais vitais, auxiliam no controle de doenças crônicas e enviam alertas preventivos. Com isso, a IA favorece o desenvolvimento individual de cada paciente, possibilitando planos de tratamento personalizados e maior adesão às orientações médicas. Assim, a integração da IA na saúde promove um atendimento mais ágil, humanizado e eficiente, colocando a tecnologia a serviço da qualidade de vida.
+Outro ponto de destaque é o acompanhamento médico contínuo, viabilizado por aplicativos e dispositivos que monitoram sinais vitais, auxiliam no controle de doenças crônicas e enviam alertas preventivos. Com isso, o sistema de integraçao de dados favorece o desenvolvimento individual de cada paciente, possibilitando planos de tratamento personalizados e maior adesão às orientações médicas. Assim, a integração da IA na saúde promove um atendimento mais ágil, humanizado e eficiente, colocando a tecnologia a serviço da qualidade de vida.
 
 1.1. Problema
 
