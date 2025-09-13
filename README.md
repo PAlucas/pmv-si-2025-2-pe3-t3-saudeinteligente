@@ -6,21 +6,23 @@
 
 `SEMESTRE: 3º`
 
-A Inteligência Artificial (IA) tem o princípio de transformar o setor da saúde ao oferecer soluções inovadoras para otimizar processos e melhorar o atendimento ao paciente. Ferramentas inteligentes podem automatizar a marcação de exames, reduzindo tempo de espera e organizando de forma eficiente a disponibilidade de médicos e equipamentos. Além disso, sistemas de triagem automatizada analisam sintomas, histórico clínico e dados em tempo real para identificar prioridades, garantindo que casos mais urgentes recebam atenção imediata.
+O Sistema de integraçao de dados tem o princípio de transformar o setor da saúde ao oferecer soluções inovadoras para otimizar processos e melhorar o atendimento ao paciente. 
+Ferramentas inteligentes podem automatizar a marcação de exames, reduzindo tempo de espera e organizando de forma eficiente a disponibilidade de médicos e equipamentos. 
+Além disso, sistemas de atendimento, partindo da triagem, com as informaçoes completas do paciente facilitam a indentificação para analise de sintomas, histórico clínico e dados em tempo real para identificar prioridades, garantindo que casos mais urgentes recebam atenção imediata.
 
-Outro ponto de destaque é o acompanhamento médico contínuo, viabilizado por aplicativos e dispositivos que monitoram sinais vitais, auxiliam no controle de doenças crônicas e enviam alertas preventivos. Com isso, a IA favorece o desenvolvimento individual de cada paciente, possibilitando planos de tratamento personalizados e maior adesão às orientações médicas. Assim, a integração da IA na saúde promove um atendimento mais ágil, humanizado e eficiente, colocando a tecnologia a serviço da qualidade de vida.
+Outro ponto de destaque é o acompanhamento médico contínuo, viabilizado por um sistema online e dispositivos que monitoram sinais vitais, auxiliam no controle de doenças crônicas e enviam alertas preventivos. Com isso, o sitema de integraçao favorece o desenvolvimento individual de cada paciente, possibilitando planos de tratamento personalizados e maior adesão às orientações médicas. 
+Assim, com o sistema de integração na area da saúde promove um atendimento mais ágil, humanizado e eficiente, colocando a tecnologia a serviço da qualidade de vida.
 
 ## Integrantes
 
 * Rafael Alves Faria
 * Nome completo do aluno 2
-* Nome completo do aluno 3
+
 
 
 ## Orientador
 
-* 
-Maria Ines Lage de Paula
+* Maria Ines Lage de Paula
 
 # Planejamento
 
@@ -35,19 +37,41 @@ Outro ponto de destaque é o acompanhamento médico contínuo, viabilizado por a
 
 1.1. Problema
 
-A falta de aplicação da Inteligência Artificial (IA) na saúde gera diversos desafios, como a demora na marcação de exames, resultando em longas filas e baixa eficiência no uso de recursos médicos. A ausência de sistemas inteligentes de triagem compromete a agilidade na identificação de casos urgentes, aumentando riscos para pacientes em estado crítico. Além disso, sem ferramentas de acompanhamento contínuo, o monitoramento de doenças crônicas e a personalização de tratamentos ficam limitados, dificultando o desenvolvimento individual de cada paciente. Esse cenário reforça a importância da IA para reduzir falhas, otimizar processos e melhorar a qualidade do atendimento em saúde.
+Exemplo de um csao evidenciando a necessidade de um sistema de integraçao de dados ocorrido e um hospital de médio porte, um paciente deu entrada no pronto-atendimento com uma reação adversa grave após receber um medicamento prescrito. Ocorreu que o paciente já havia registrado em seu histórico clínico que possuía alergia a esse medicamento, porém essas informações estavam em uma ficha física arquivada, sem integração digital. Como não havia um portal de acesso online centralizado com dados médicos completos — incluindo histórico de alergias, cirurgias anteriores, exames realizados e consultas passadas — o médico de plantão não teve acesso imediato a essas informações críticas.
+
+Além disso, o paciente não tinha em mãos todos os documentos médicos no momento da consulta, e o sistema utilizado pelo hospital não permitia o compartilhamento em tempo real entre unidades de saúde.
+
+Consequência: o paciente sofreu uma reação grave, foi necessário atendimento emergencial e internação, aumentando os custos do hospital, o tempo de recuperação e gerando riscos à vida.
+
+Causa principal: falta de um sistema integrado de gestão e acompanhamento de dados do paciente, com acesso tanto para médicos quanto para pacientes, incluindo funcionalidades como:
+
+Histórico médico centralizado.
+
+Registro de alergias e cirurgias.
+
+Agendamento online de consultas e exames.
+
+Atualização em tempo real dos dados de saúde.
+
+Esse problema poderia ser evitado com um portal unificado de saúde digital, que garantisse segurança, acessibilidade e confiabilidade das informações.
 
 1.2. Objetivos do trabalho
 
-O principal objetivo da aplicação da Inteligência Artificial (IA) na saúde é otimizar processos e melhorar a qualidade do atendimento. Entre as metas estão a agilidade na marcação de exames, a eficiência na triagem de pacientes, o acompanhamento médico contínuo e o desenvolvimento individualizado de cada paciente, por meio de tratamentos personalizados e monitoramento em tempo real. Dessa forma, a IA busca reduzir filas, apoiar diagnósticos, aumentar a precisão clínica e colocar o paciente no centro do cuidado.
+Desenvolver um sistema de informação integrado na are da saúde, por meio de um portal de acesso online, que centralize os dados completos do paciente, como alergias, cirurgias já realizadas, histórico médico e exames, etc.
+Permitindo que médicos e pacientes acompanhem em tempo real as informações, no qual os pacientes posssam cadastrar suas informaçoes e realizem agendamentos e cadastros, garantindo maior segurança, agilidade e qualidade no atendimento, e os medicos independente do hospital, condsigam ter acesso facil as informaçoes completas de seu paciente.
 
 1.3. Justificativa
 
-A crescente demanda por serviços de saúde ágeis e eficientes motiva o uso da Inteligência Artificial (IA) como ferramenta de transformação. Sua aplicação permite reduzir filas na marcação de exames, agilizar a triagem de pacientes, além de oferecer acompanhamento médico contínuo e apoiar o desenvolvimento individualizado de cada paciente. A motivação central está em melhorar a qualidade do atendimento, apoiar decisões médicas com maior precisão e tornar o sistema de saúde mais acessível, humano e eficaz.
+A crescente demanda por serviços de saúde ágeis e eficientes motiva o uso de um sistema integrado de informação como ferramenta de transformação. 
+Sua aplicação permite reduzir filas na marcação de exames, agilizar acesso facial aos dados completos do paciente, além de oferecer acompanhamento médico contínuo e apoiar o desenvolvimento individualizado de cada paciente. 
+A motivação central está em melhorar a qualidade do atendimento, apoiar decisões médicas com maior precisão e tornar o sistema de saúde mais acessível, humano e eficaz.
 
 1.4. Público alvo
 
-O público-alvo da aplicação da Inteligência Artificial (IA) na saúde é amplo e abrange pacientes, profissionais de saúde e gestores hospitalares. Para os pacientes, a IA facilita a marcação de exames, o acompanhamento médico personalizado e a adesão a tratamentos. Já os profissionais, como médicos e enfermeiros, se beneficiam com suporte em diagnósticos e triagem mais ágil, reduzindo a sobrecarga de trabalho. Gestores e instituições de saúde também encontram vantagens na otimização de recursos e na melhoria da qualidade do atendimento. Assim, a IA apoia diferentes perfis dentro do ecossistema da saúde, promovendo eficiência e cuidado centrado no paciente.
+O público-alvo da aplicação do siatema de integraçao de dados na saúde é amplo e abrange pacientes, profissionais de saúde e gestores hospitalares. 
+Para os pacientes, esse sistema facilita a marcação de exames, o acompanhamento médico personalizado, atualização de dados e a adesão a tratamentos. 
+Já os profissionais, como médicos e enfermeiros, se beneficiam com suporte em diagnósticos e triagem mais ágil, reduzindo a sobrecarga de trabalho. 
+Gestores e instituições de saúde também encontram vantagens na otimização de recursos e na melhoria da qualidade do atendimento. Assim, o sistema de integraçao de dados apoia diferentes perfis dentro do ecossistema da saúde, promovendo eficiência e cuidado centrado no paciente.
 
 2. ESTADO DA ARTE
 
