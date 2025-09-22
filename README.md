@@ -80,7 +80,6 @@ O campo de pesquisa sobre o prontuário eletrônico no Brasil é dinâmico e foc
 A pesquisa sobre prontuários eletrônicos envolve uma variedade de instituições e pesquisadores em diferentes regiões do Brasil. As fontes de pesquisa indicam estudos em locais como:
 
 * **Belo Horizonte:** Pesquisa realizada na Secretaria Municipal de Saúde sobre o impacto da implantação do PEP na rede pública municipal [(AEDb, 2007)](https://www.aedb.br/seget/arquivos/artigos07/56_SEGET.pdf).
-* **Rio Grande do Sul:** Estudo com gestores de secretarias municipais de saúde.
 * **São Paulo:** Pesquisas realizadas em hospitais como o Hospital de Base de São José do Rio Preto e um hospital privado de grande porte. A experiência de implantação e utilização do prontuário eletrônico do paciente [(Senac, 2016)](https://www1.sp.senac.br/hotsites/blogs/revistainiciacao/wp-content/uploads/2016/01/Exp_imp_util_PEP-v10-ABNT.pdf).
 * **Nível nacional:** Estudos abrangentes que analisam dados secundários de programas do Ministério da Saúde, como o PMAQ-AB e o SISAB.
 * **Instituições:** Pesquisas publicadas em repositórios como o ResearchGate, a SciELO e plataformas governamentais.
