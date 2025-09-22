@@ -72,7 +72,7 @@ O campo de pesquisa sobre o prontuário eletrônico no Brasil é dinâmico e foc
 * A avaliação do impacto da transição de sistemas de informação na **Atenção Primária à Saúde (APS)**, como a mudança do SIAB para o SISAB, e o uso de ferramentas como o Prontuário Eletrônico do Cidadão (PEC).
 * Análises que investigam a relação entre o uso do prontuário eletrônico e a **melhoria do acesso e da qualidade** dos serviços de saúde.
 * Pesquisas sobre os desafios da implantação do prontuário eletrônico em contextos estaduais, como no Rio Grande do Sul.
-* Revisões sistemáticas da literatura que comparam o panorama do prontuário eletrônico no Brasil, na União Europeia e nos Estados Unidos, com foco em **gestão e segurança de dados** [(ENANCIB, 2011)](https://enancib.ancib.org/index.php/enancib/xxxiiienancib/paper/view/1966/1350).
+* Revisões sistemáticas da literatura que comparam o panorama do prontuário eletrônico no Brasil, na União Europeia e nos Estados Unidos, com foco em **gestão e segurança de dados** [(ENANCIB, 2023)](https://enancib.ancib.org/index.php/enancib/xxxiiienancib/paper/view/1966/1350).
 * Estudos de caso sobre a implementação do prontuário eletrônico em instituições específicas, como a rede de saúde de Belo Horizonte e um hospital privado de grande porte [(AEDb, 2007)](https://www.aedb.br/seget/arquivos/artigos07/56_SEGET.pdf).
 
 ### 2. Quem está pesquisando e onde?
@@ -89,7 +89,7 @@ A pesquisa sobre prontuários eletrônicos envolve uma variedade de instituiçõ
 As pesquisas mais recentes confirmam os benefícios e os desafios da implementação do prontuário eletrônico:
 
 * **Benefícios:** Estudos mostram que o uso de prontuários eletrônicos melhora a organização das tarefas, facilita o monitoramento do paciente e eleva a qualidade da assistência prestada. Além disso, a informatização está associada a melhorias no acesso aos serviços de saúde, como maior realização de atendimentos e agendamentos por telefone.
-* **Desafios:** As principais dificuldades identificadas são a **adaptação dos profissionais**, a deficiência em habilidades de informática e a falta de treinamento. A infraestrutura inadequada, como a falta de computadores e internet, também é um obstáculo significativo em muitas regiões. A **interoperabilidade** entre sistemas é um desafio crítico para a eficiência [(ENANCIB, 2011)](https://enancib.ancib.org/index.php/enancib/xxxiiienancib/paper/view/1966/1350).
+* **Desafios:** As principais dificuldades identificadas são a **adaptação dos profissionais**, a deficiência em habilidades de informática e a falta de treinamento. A infraestrutura inadequada, como a falta de computadores e internet, também é um obstáculo significativo em muitas regiões. A **interoperabilidade** entre sistemas é um desafio crítico para a eficiência [(ENANCIB, 2023)](https://enancib.ancib.org/index.php/enancib/xxxiiienancib/paper/view/1966/1350).
 
 ### 4. Quais as divergências dos pesquisadores sobre o assunto?
 
@@ -104,7 +104,7 @@ Essa divergência gera desconfiança entre profissionais e gestores sobre a real
 
 Com base na pesquisa, os seguintes aspectos ainda requerem um maior aprofundamento:
 
-* A necessidade de mais estudos com abordagens aprofundadas sobre a **padronização de dados, interoperabilidade e privacidade dos pacientes** [(ENANCIB, 2011)](https://enancib.ancib.org/index.php/enancib/xxxiiienancib/paper/view/1966/1350).
+* A necessidade de mais estudos com abordagens aprofundadas sobre a **padronização de dados, interoperabilidade e privacidade dos pacientes** [(ENANCIB, 2023)](https://enancib.ancib.org/index.php/enancib/xxxiiienancib/paper/view/1966/1350).
 * O aprofundamento da análise sobre o impacto da transição de sistemas de informação para entender e superar os desafios de registro de atividades de saúde.
 * Ainda há pouca literatura sobre o uso de prontuários eletrônicos por profissionais de áreas específicas, como a psicologia, em contextos de saúde [(Faccat)](https://seer.faccat.br/index.php/psi/article/view/1292/1323).
 * A evolução dos prontuários eletrônicos para introduzir conceitos de **segurança do paciente**, como suporte à decisão clínica, ainda enfrenta resistência cultural, um tema que pode ser melhor explorado.
